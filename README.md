@@ -32,17 +32,12 @@ A responsive contact form with client-side validation implemented in JavaScript.
 - Regular Expressions (for email validation)
 
 ## How to Use
-
-1. Clone the repository:
-   bash
-   git clone https://github.com/your-username/contact-form.git
    
-
-2. Open the project in your browser:
+1. Open the project in your browser:
    - Navigate to the project directory
    - Open index.html in any modern browser
 
-3. Test the form:
+2. Test the form:
    - Try submitting with empty fields
    - Test invalid email formats
    - Verify minimum message length requirement
